@@ -7,13 +7,13 @@ This repository contains data and Python code for replicating the figures, analy
 ## Download
 Clone/Download this repository to your local computer. You will simply be downloading the git repository.
 
-Go to the GitHub page for https://github.com/payamaminpour/Diversity_bonus_in_pooling_LK
-Click on the button labeled "Clone or download" on the right side of the screen.
-A drop-down menu will appear-- click on "Download ZIP"
-This automatically downloads a compressed version of all of the files.
-When the download is complete, open it.
-Once you open the download, you should see a single folder called "Diversity_bonus_in_pooling_LK-master". Drag this folder to your your working directory.
-un-zip the folders.
+1. Go to the GitHub page for https://github.com/payamaminpour/Diversity_bonus_in_pooling_LK
+2. Click on the button labeled "Clone or download" on the right side of the screen.
+3. A drop-down menu will appear-- click on "Download ZIP"
+4. This automatically downloads a compressed version of all of the files.
+5. When the download is complete, open it.
+6. Once you open the download, you should see a single folder called "Diversity_bonus_in_pooling_LK-master". Drag this folder to your your working directory.
+7. un-zip the folders.
 
 ## Install Python3
 Download the Anaconda Python3 installer from https://www.anaconda.com/download/ the one called Python 3.x 64-bit, unless you know you need something else. Run the installer and... All defaults are okay. For each script to run, be sure to set your working directory to the location of the script.
