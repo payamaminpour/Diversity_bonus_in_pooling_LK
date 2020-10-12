@@ -4,10 +4,10 @@ Replication materials for "The diversity bonus in pooling local knowledge about 
 This repository contains data and Python code for replicating the figures, analyses, and simulations described in "The diversity bonus in pooling local knowledge about complex problems" by Payam Aminpour, Steven A. Gray, Alison Singer, Steven B. Scyphers, Antonie J. Jetter, Rebecca Jordan, Robert Murphy Jr., and Jonathan H. Grabowski
 
 
-# Download
+## Download
 Clone/Download this repository to your local computer.
 
-# Install Python3
+## Install Python3
 Download the Anaconda Python3 installer from https://www.anaconda.com/download/ the one called Python 3.x 64-bit, unless you know you need something else. Run the installer and... All defaults are okay. For each script to run, be sure to set your working directory to the location of the script.
 
 
