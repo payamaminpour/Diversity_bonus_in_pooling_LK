@@ -34,4 +34,5 @@ The file "Stripped_Bass_Motif.py" contains python code for stochastic network an
 ## Monte Carlo Analyses (MCAs)
 The files "Stripped_Bass_MonteCarlo.py" and "Stripped_Bass_Div-MonteCarlo.py" contain python codes for performing MCA by creating virtual agents (i.e., random individuals) from each type of stakeholders, where their cognitive maps were randomly generated. These python codes can be used to replicate Figure 4. 
 
-## Intra vs Inter group 
+## Intra vs Inter group Analysis
+
