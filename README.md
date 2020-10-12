@@ -28,5 +28,10 @@ The file "Stripped_Bass_Models.py" contains python code for aggregating the FCMs
 ## Dynamic Simulation (FCM Scenario Analysis)
 The file "Scenario_Analysis_StripedBass.py" contains python code for replicating the scenario simulations. These outcomes were present in SI Appendix and were used during interviews with experts, where the models structural and dynamic accuracy were evaluated by experts.
 
-## Micro-Motif Analyes
+## Micro-Motif Analysis
 The file "Stripped_Bass_Motif.py" contains python code for stochastic network analysis that measures the prevalence of complex micro-motifs in a model (i.e., complex micro-structures including bi-directionality, indirect effect, multiple effects, and feedback loop).
+
+## Monte Carlo Analyses (MCAs)
+The files "Stripped_Bass_MonteCarlo.py" and "Stripped_Bass_Div-MonteCarlo.py" contain python codes for performing MCA by creating virtual agents (i.e., random individuals) from each type of stakeholders, where their cognitive maps were randomly generated. These python codes can be used to replicate Figure 4. 
+
+## Intra vs Inter group 
