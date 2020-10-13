@@ -1,4 +1,4 @@
-# Diversity_Bonus_in_Pooling_Local_knowledge
+# Diversity_Bonus_in_Pooling_Local_Knowledge
 Replication materials for "The diversity bonus in pooling local knowledge about complex problems"
 
 This repository contains data and Python code for replicating the figures, analyses, and simulations described in "The diversity bonus in pooling local knowledge about complex problems" by Payam Aminpour, Steven A. Gray, Alison Singer, Steven B. Scyphers, Antonie J. Jetter, Rebecca Jordan, Robert Murphy Jr., and Jonathan H. Grabowski
