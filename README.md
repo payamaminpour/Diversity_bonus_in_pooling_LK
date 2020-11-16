@@ -23,7 +23,7 @@ Download the Anaconda Python3 installer from https://www.anaconda.com/download/ 
 The file "All_Participants.xlsx" contains all the individual Mental Models data. These are Adjacency matrices of individually created FCMs. Each individual has a unique ID which is linked to the demographic data at "Fishermen Database.xlsx" 
 
 ## Model Aggregation
-The file "Stripped_Bass_Models.py" contains python code for aggregating the FCMs of individuals. The output would be 4 aggregated modes (Recreational fishers, Commercial fishers, Fisheries managers, and the Diverse Crowd). These aggregated models were used during interviews with experts, where the models structural and dynamic accuracy were evaluated by experts. 
+The file "Stripped_Bass_Models.py" contains python code for aggregating the FCMs of individuals. The output would be 4 aggregated models (Recreational fishers, Commercial fishers, Fisheries managers, and the Diverse Crowd). These aggregated models were used during interviews with experts, where the models' structural and dynamic accuracy were evaluated by a panel of scientific experts. 
 
 ## Dynamic Simulation (FCM Scenario Analysis)
 The file "Scenario_Analysis_StripedBass.py" contains python code for replicating the scenario simulations. These outcomes were present in SI Appendix and were used during interviews with experts, where the models structural and dynamic accuracy were evaluated by experts.
