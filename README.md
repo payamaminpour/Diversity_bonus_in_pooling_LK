@@ -20,7 +20,7 @@ Download the Anaconda Python3 installer from https://www.anaconda.com/download/ 
 
 
 ## Individual Mental Models Data
-The file "All_Participants.xlsx" contains all the individual Mental Models data. These are Adjacency matrices of individually created FCMs. Each individual has a unique ID which is linked to the demographic data at "Fishermen Database.xlsx" 
+The file "All_Participants.xlsx" (Available in PNAS paper as Dataset S1) contains all the individual Mental Models data. These are Adjacency matrices of individually created FCMs. Each individual has a unique ID which is linked to the demographic data at "Fishermen Database.xlsx" (Available in PNAS paper as Dataset S2). 
 
 ## Model Aggregation
 The file "Stripped_Bass_Models.py" contains python code for aggregating the FCMs of individuals. The output would be 4 aggregated models (Recreational fishers, Commercial fishers, Fisheries managers, and the Diverse Crowd). These aggregated models were used during interviews with experts, where the models' structural and dynamic accuracy were evaluated by a panel of scientific experts. 
